@@ -1,9 +1,10 @@
 # Full Stack Developer
 - PHP
 - Javascript
-- Python
 - HTML/CSS
 - Java (kinda)
+- Python (Sometimes)
+- Go (Rarely)
 
 <!---
 DanRVP/DanRVP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
